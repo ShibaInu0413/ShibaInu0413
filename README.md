@@ -5,3 +5,4 @@ I like to do:
  - Like reading comics
 
 ![Shibainu's github stats](https://github-readme-stats.vercel.app/api?username=ShibaInu0413&show_icons=true&theme=cobalt)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ShibaInu0413&layout=compact&theme=cobalt&langs_count=10)
