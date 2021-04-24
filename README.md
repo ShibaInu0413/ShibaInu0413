@@ -9,4 +9,4 @@
 [![](https://raw.githubusercontent.com/ShibaInu0413/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/ShibaInu0413)
 [![](https://readme-stats-jet.vercel.app/api/wakatime?username=ShibaInu&theme=nord)](https://github.com/ShibaInu0413)
 
-<figure><embed src="https://wakatime.com/share/@ShibaInu/ebbb0893-fd13-4178-a9cb-a2016434a1bb.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@ShibaInu/ebbb0893-fd13-4178-a9cb-a2016434a1bb.svg"></embed>
