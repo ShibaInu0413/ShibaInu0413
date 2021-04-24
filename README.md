@@ -9,5 +9,4 @@
 [![](https://raw.githubusercontent.com/ShibaInu0413/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/ShibaInu0413)
 [![](https://readme-stats-jet.vercel.app/api/wakatime?username=ShibaInu&theme=nord)](https://github.com/ShibaInu0413)
 
-.. image:: https://wakatime.com/share/@ShibaInu/7351d046-64cc-4337-b30a-8a8ecd768da5.png
-    :target: https://wakatime.com/
+[![](https://wakatime.com/share/@ShibaInu/7351d046-64cc-4337-b30a-8a8ecd768da5.png)](https://wakatime.com/)
