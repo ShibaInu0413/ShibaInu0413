@@ -8,4 +8,4 @@
 [![](https://raw.githubusercontent.com/ShibaInu0413/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/ShibaInu0413)
 [![](https://raw.githubusercontent.com/ShibaInu0413/profile-summary-cards/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/ShibaInu0413)
 
-[![](https://wakatime.com/share/@ShibaInu/7351d046-64cc-4337-b30a-8a8ecd768da5.png)](https://wakatime.com/)
+<figure><embed src="https://wakatime.com/share/@ShibaInu/ba805359-7729-4951-8257-50768116520e.svg"></embed></figure>
